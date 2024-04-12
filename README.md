@@ -1,4 +1,4 @@
-#Environmental Sensory Detection Prediction Model
+Environmental Sensory Detection Prediction Model
 
 ##Overview
 The Environmental Sensory Detection Model is designed to monitor and assess the presence of individuals in a room by analyzing various environmental parameters. This sophisticated model utilizes multiple sensors to provide real-time insights into room occupancy and conditions, enhancing security, energy management, and safety monitoring systems.
